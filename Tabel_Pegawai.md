@@ -53,7 +53,7 @@ Jabatan ENUM('Manager', 'Supervisor', 'Staff'),
 
 Hasil:
 
-![](foto/tabel.png)
+![](foto/tabel1.png)
 
 ## 2. Gunakan perintah SELECT * FROM pegawai; untuk mendapatkan data.
 Struktur:
