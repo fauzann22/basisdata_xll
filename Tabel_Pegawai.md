@@ -52,7 +52,7 @@ Jabatan ENUM('Manager', 'Supervisor', 'Staff'),
     - NOT NULL: Menandakan bahwa kolom ini harus diisi; nilai kosong (NULL) tidak diperbolehkan.
 
 Hasil:
-![](images/gamar1.png)
+![](tabel1.png)
 ## 2. Gunakan perintah SELECT * FROM pegawai; untuk mendapatkan data.
 Struktur:
 ~~~ SQL
@@ -105,4 +105,4 @@ INSERT INTO pegawai (NIP, NDep, NBlk, JK, Alamat, Telp, Jabatan, Gaji, NoCab) VA
     - Jika ada nilai kosong ('') dalam kolom Jabatan, Anda mungkin ingin memperbarui baris ini dengan jabatan yang sesuai, seperti 'Staff', atau menyesuaikan schema tabel untuk mengizinkan nilai kosong jika perlu.
 
 Hasil :
-![](images/2.png)
+![](tabel2.png)
