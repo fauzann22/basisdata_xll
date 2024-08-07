@@ -52,7 +52,9 @@ Jabatan ENUM('Manager', 'Supervisor', 'Staff'),
     - NOT NULL: Menandakan bahwa kolom ini harus diisi; nilai kosong (NULL) tidak diperbolehkan.
 
 Hasil:
-![](tabel1.png)
+
+![](imeg/tabel1.png)
+
 ## 2. Gunakan perintah SELECT * FROM pegawai; untuk mendapatkan data.
 Struktur:
 ~~~ SQL
